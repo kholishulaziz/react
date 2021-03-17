@@ -1,0 +1,110 @@
+{
+	"flights":[
+		{
+			"id": 1,
+			"flightCode": "GA301",
+			"origin": "SUB",
+			"destination": "JOG",
+			"departureDate": "2021-01-01T01:00:00.000+00:00",
+			"airline": {
+				"id": 1,
+				"airlineName": "American"
+			},
+			"passengers": [
+				{
+					"id": 1,
+					"firstName": "Albus",
+					"lastName": "Dumbledore"
+				},
+				{
+					"id": 2,
+					"firstName": "Hermione",
+					"lastName": "Granger"
+				}
+			],
+			"miscellaneous": [
+				{
+					"id": 1,
+					"miscellaneous": "Snack & Drink",
+					"flightId": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"flightCode": "GA302",
+			"origin": "JOG",
+			"destination": "SUB",
+			"departureDate": "2021-01-01T01:00:00.000+00:00",
+			"airline": {
+				"id": 2,
+				"airlineName": "Delta"
+			},
+			"passengers": [
+				{
+					"id": 1,
+					"firstName": "Albus",
+					"lastName": "Dumbledore"
+				}
+			],
+			"miscellaneous": []
+		},
+		{
+			"id": 3,
+			"flightCode": "GA303",
+			"origin": "SUB",
+			"destination": "CGK",
+			"departureDate": "2021-01-01T01:00:00.000+00:00",
+			"airline": {
+				"id": 1,
+				"airlineName": "American"
+			},
+			"passengers": [
+				{
+					"id": 1,
+					"firstName": "Albus",
+					"lastName": "Dumbledore"
+				}
+			],
+			"miscellaneous": []
+		},
+		{
+			"id": 4,
+			"flightCode": "GA304",
+			"origin": "SUB",
+			"destination": "JOG",
+			"departureDate": "2021-01-01T01:00:00.000+00:00",
+			"airline": {
+				"id": 1,
+				"airlineName": "American"
+			},
+			"passengers": [
+				{
+					"id": 2,
+					"firstName": "Hermione",
+					"lastName": "Granger"
+				}
+			],
+			"miscellaneous": []
+		},
+		{
+			"id": 5,
+			"flightCode": "GA305",
+			"origin": "JOG",
+			"destination": "SUB",
+			"departureDate": "2021-01-01T01:00:00.000+00:00",
+			"airline": {
+				"id": 1,
+				"airlineName": "American"
+			},
+			"passengers": [
+				{
+					"id": 2,
+					"firstName": "Hermione",
+					"lastName": "Granger"
+				}
+			],
+			"miscellaneous": []
+		}
+	]
+}
