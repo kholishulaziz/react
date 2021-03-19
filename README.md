@@ -2,13 +2,16 @@
 
 **Required:**
 * [Create React App](https://github.com/facebook/create-react-app) 
-* typescript
+* Typescript
+* Redux
 * Axios
 
 **Running apps:**
 ```
 npm start
 ```
+**Backend:**
+https://github.com/kholishulaziz/springboot
 
 **Demo:**
-https://aziz-react.herokuapp.com/
+https://aziz-react.herokuapp.com
